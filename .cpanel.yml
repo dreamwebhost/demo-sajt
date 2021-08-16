@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - DEPLOYPATH="/home/$USER/public_html"
+    - cp index.html ${DEPLOYPATH}/index.html

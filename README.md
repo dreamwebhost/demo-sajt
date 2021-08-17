@@ -10,3 +10,7 @@ cPanel podržava dva načina rada sa Git repozitorijumima, to su `push`˛ i `pul
 <br>Push deployment jeste ažuriranje cPanel repozitorijuma sa lokalnog računara `push` komandom.
 <br>Pull deployment je ažuriranje cPanel repozitorijuma sa drugog internet servisa kao što je Github, pomoću `pull` komande.
 <br>Više informacija možete naći u cPanel [dokumentaciji](https://docs.cpanel.net/knowledge-base/web-services/guide-to-git-deployment/).
+
+
+Push i Pull deployment:
+[https://docs.cpanel.net/knowledge-base/web-services/guide-to-git-deployment/](https://docs.cpanel.net/knowledge-base/web-services/guide-to-git-deployment/)

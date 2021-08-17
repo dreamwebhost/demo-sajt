@@ -1,4 +1,4 @@
-# demo-sajt
+# git-deploy
 Demo sajt
 
 Ovo je primer `git deploy` opcije za `cPanel`.

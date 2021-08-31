@@ -2,4 +2,5 @@
 deployment:
   tasks:
     - DEPLOYPATH="/home/$USER/public_html"
-    - cp index.html ${DEPLOYPATH}/index.html
+    - /bin/cp index.html ${DEPLOYPATH}/index.html
+    - /bin/cp -R ./css ${DEPLOYPATH}/css
